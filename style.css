@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+	background-color: #D23333;
+}
+
+h1 {
+	font-weight: lighter;
+	color: white;
+}
+
+#logo {
+	width: 80px;
+	height: 80px;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
